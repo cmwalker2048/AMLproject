@@ -2,6 +2,10 @@
 
 > **Applied Machine Learning Course Project** | MIT License
 
+<p align="center">
+  <a href="#english">English</a> | <a href="#中文">中文</a>
+</p>
+
 ---
 
 ## English
@@ -111,6 +115,10 @@ We use four datasets:
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+<p align="center">
+  <a href="#english">English</a> | <a href="#中文">中文</a>
+</p>
 
 ## 中文
 
